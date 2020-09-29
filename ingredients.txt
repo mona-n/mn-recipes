@@ -4,3 +4,4 @@ Bread
 Tomatoes
 Basil
 Sugar
+Chili
